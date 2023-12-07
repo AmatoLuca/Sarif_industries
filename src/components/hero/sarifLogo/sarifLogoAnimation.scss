@@ -1,0 +1,101 @@
+#loading {
+   clip-path: polygon(0% 0%, 0% 100%, 42.3% 100%, 42.3% 71.8%, 49.85% 56.2%, 57.7% 71.8%, 30.6% 71.8%, 27% 100%, 100% 100%, 100% 0%);
+   height: 100px;
+   position: relative;
+   transform-origin: 50% 66.66%;
+   width: 100px;
+ }
+ 
+ svg {
+   display: block;
+ }
+ 
+ g {
+   position: relative;
+ }
+ 
+ .triangle {
+   fill: #F8D872;
+   stroke: #F8D872;
+ }
+ 
+ #triangle, #triangle-2 {
+   height: 100%;
+   transform-origin: 50% 66.66%;
+   width: 100%;
+ }
+ 
+ #triangle {
+   left: 0;
+   position: absolute;
+   top: 0;
+ }
+ 
+ .fill {
+   fill: black;
+   stroke: black;
+ }
+ 
+ #fill-1-1, #fill-1-2 {
+   transform-origin: 22.5px 209.1px;
+ }
+ #fill-2-1, #fill-2-2 {
+   transform-origin: 67.6px 209.1px;
+ }
+ #fill-3-1, #fill-3-2 {
+   transform-origin: 45.07px 199.1px;
+ }
+ #fill-4-1, #fill-4-2 {
+   transform-origin: 90.7px 199.1px;
+ }
+ #fill-5-1, #fill-5-2 {
+   transform-origin: 112.6px 209.1px;
+ }
+ #fill-6-1, #fill-6-2 {
+   transform-origin: 135.07px 199.1px;
+ }
+ #fill-7-1, #fill-7-2 {
+   transform-origin: 45.07px 165.1px;
+ }
+ #fill-8-1, #fill-8-2 {
+   transform-origin: 157.6px 209.1px;
+ }
+ #fill-9-1, #fill-9-2 {
+   transform-origin: 180.07px 199.1px;
+ }
+ #fill-10-1, #fill-10-2 {
+   transform-origin: 202.6px 209.1px;
+ }
+ #fill-11-1, #fill-11-2 {
+   transform-origin: 67.6px 155.1px;
+ }
+ #fill-12-1, #fill-12-2 {
+   transform-origin: 180.07px 165.1px;
+ }
+ #fill-13-1, #fill-13-2 {
+   transform-origin: 67.6px 122.1px;
+ }
+ #fill-14-1, #fill-14-2 {
+   transform-origin: 157.6px 155.1px;
+ }
+ #fill-15-1, #fill-15-2 {
+   transform-origin: 157.6px 122.1px;
+ }
+ #fill-16-1-1, #fill-16-1-2 {
+   transform-origin: 90.07px 108.1px;
+ }
+ #fill-16-2-1, #fill-16-2-2 {
+   transform-origin: 135.07px 108.1px;
+ }
+ #fill-17-1, #fill-17-2 {
+   transform-origin: 135.07px 76.1px;
+ }
+ #fill-18-1, #fill-18-2 {
+   transform-origin: 90.07px 76.1px;
+ }
+ #fill-19-1, #fill-19-2 {
+   transform-origin: 112.6px 62.1px;
+ }
+ #fill-20-1, #fill-20-2 {
+   transform-origin: 112.6px 30.1px;
+ }
