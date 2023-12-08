@@ -1,5 +1,9 @@
 .hero-card {
+   display: flex;
+   justify-content: center;
+   align-items: center;
    width: 45.5vw;
+   width: 100vw;
    height: 60vw;
    img {
       max-width: 100%;

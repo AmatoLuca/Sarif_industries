@@ -1,11 +1,11 @@
 import React from "react";
-import { HeroCard } from "./heroCard/HeroCard";
+import { HeroIntro } from "./heroIntro/HeroIntro";
 import "./hero.scss";
 
 export const Hero = () => {
   return (
     <div className="hero-container">
-      <HeroCard />
+      <HeroIntro />
     </div>
   );
 };

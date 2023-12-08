@@ -1,0 +1,17 @@
+.hero-intro-container {
+   position: relative;
+   height: 100%;
+   width: 100%;
+   img {
+      width: 100%;
+      height: 100%;
+   }
+   .hero-intro-overlay {
+      position: absolute;
+      background-color: #000;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+   }
+}
